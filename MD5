@@ -1,13 +1,13 @@
-4ee487069cd0a6e8e11957029a165d81 *DESCRIPTION
+0788b38a3bdd2969bb232a5c7a3d1f91 *DESCRIPTION
 a62b465d6ed03425e937886cb5da1b44 *NAMESPACE
 5535b7890b10d5bfc3ed546a77ef3f06 *R/gnmf.R
 44951afa5a2f051f444346a3235ebbcb *R/gnmfLevel1Parse.R
 380bfb5c939d450d8e20ed368dd6ec23 *R/gnmfLevel2Parse.R
 62a91d78b897f0977e478811c5c398b2 *R/gnmfLevel3Parse.R
-512e834913ea3cda377af8bf8acb38dc *data/V.rda
+beb43aabbab3ddde4669587e0a598d94 *data/V.rda
 d39c7913ffed6eecd3bc994028cd508f *man/V.Rd
-6cdfb1a1e122366cd19bc9791b89bcc6 *man/gnmf-package.Rd
-689a5b7fb2a97b6b6e1d09a12ddeb1bf *man/gnmf.Rd
+42a7df91af5a1af086753a9b30ce78e0 *man/gnmf-package.Rd
+f4a63defa7b896e59911b981eab29ac2 *man/gnmf.Rd
 00132cc2ceffb6b56e8180395e5b0d08 *src/BD.cpp
 17c58bfec3a680d861873f6aca17c790 *src/BD.h
 5b913c2832a67e4fef3d471cbb0755f7 *src/CMatrix.cpp
