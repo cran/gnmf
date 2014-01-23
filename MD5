@@ -1,4 +1,4 @@
-0788b38a3bdd2969bb232a5c7a3d1f91 *DESCRIPTION
+fdc46f806414941609a1c7b0d6e58457 *DESCRIPTION
 a62b465d6ed03425e937886cb5da1b44 *NAMESPACE
 5535b7890b10d5bfc3ed546a77ef3f06 *R/gnmf.R
 44951afa5a2f051f444346a3235ebbcb *R/gnmfLevel1Parse.R
@@ -6,8 +6,8 @@ a62b465d6ed03425e937886cb5da1b44 *NAMESPACE
 62a91d78b897f0977e478811c5c398b2 *R/gnmfLevel3Parse.R
 beb43aabbab3ddde4669587e0a598d94 *data/V.rda
 d39c7913ffed6eecd3bc994028cd508f *man/V.Rd
-42a7df91af5a1af086753a9b30ce78e0 *man/gnmf-package.Rd
-f4a63defa7b896e59911b981eab29ac2 *man/gnmf.Rd
+14a61f610ba1c25d77d9d3634be0d6b2 *man/gnmf-package.Rd
+068acb88dd74a08affdfca02e3bfa487 *man/gnmf.Rd
 00132cc2ceffb6b56e8180395e5b0d08 *src/BD.cpp
 17c58bfec3a680d861873f6aca17c790 *src/BD.h
 5b913c2832a67e4fef3d471cbb0755f7 *src/CMatrix.cpp
